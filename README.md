@@ -16,7 +16,7 @@ About me
 
 ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-🛳️ I am currently learning Docker
+🛳️ I am currently learning NextJS and Docker
 
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexdevrr/)
