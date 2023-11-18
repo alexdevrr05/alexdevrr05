@@ -12,7 +12,7 @@ I'm a self-taught passionate FrontEnd developer from Mexico 🇲🇽
 
 About me
 
-💼 FrontEnd Engineer
+💼 Software Engineer
 
 ❤️ I love writing TypeScript, and building fun experiments on type-level
 
