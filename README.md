@@ -14,7 +14,7 @@ About me
 
 💼 Software Engineer
 
-❤️ I love writing TypeScript, and building fun experiments on type-level
+❤️ I love writing Vue and React, and building fun experiments on type-level
 
 🛳️ I am currently learning NextJS and Docker
 
