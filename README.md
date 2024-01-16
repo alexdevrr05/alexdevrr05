@@ -20,7 +20,7 @@ About me
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexdevrr/)
 
 
-Portfolio: https://alexrrporfolio.netlify.app
+Portfolio: alexrrportfolio.netlify.app
 
 <br>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
