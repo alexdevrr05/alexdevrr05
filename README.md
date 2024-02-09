@@ -14,7 +14,7 @@ About me
 
 ❤️ I love writing Vue and React, and building fun experiments on type-level
 
-👨🏽‍💻 I am currently learning C#
+👨🏽‍💻 I am currently learning Java
 
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexdevrr/)
